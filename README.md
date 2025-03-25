@@ -1,4 +1,4 @@
-## Hi there 👋 I am AMMU!
+## 👋 HI there, I am AMMU!
 
 
 📖A 2nd year CSE student at College Of Engineering, Trivandrum.😊<br>
