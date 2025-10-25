@@ -11,4 +11,4 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.x-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![HTML](https://img.shields.io/badge/HTML-8A2BE2)](https://html.com/)
 [![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](https://www.javascript.com/)
-[![CSS](https://img.shields.io/badge/CSS-8A2BE2)]((https://www.css.com/)
+[![CSS](https://img.shields.io/badge/CSS-8A2BE2)]
