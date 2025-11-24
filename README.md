@@ -5,9 +5,12 @@ About me
 - 3rd year CS student
 - College of Engineering, Trivandrum
 - Still learning 👩‍💻📚👩‍💻
+- Full Stack Web Developer
 
 
 ![](https://i.imgur.com/waxVImv.png)
+
+[![Ammu's github stats](https://github-readme-stats.vercel.app/api?username=AMMU-N-RAJ)](https://github.com/AMMU-N-RAJ/github-readme-stats)
 
 
 [![React](https://img.shields.io/badge/REACT-1E90FF)](https://reactjs.org/)
