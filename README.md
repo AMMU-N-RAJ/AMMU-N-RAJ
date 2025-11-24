@@ -5,6 +5,8 @@
 🍀Currently trying to master the programming languages👩‍💻👩‍💻<br>
 
 
+![](https://i.imgur.com/waxVImv.png)
+
 
 [![React](https://img.shields.io/badge/REACT-1E90FF)](https://reactjs.org/)
 [![PYTHON](https://img.shields.io/badge/PYTHON-8A2A2B)](https://python.com/)
