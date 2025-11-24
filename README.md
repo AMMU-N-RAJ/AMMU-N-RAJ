@@ -1,8 +1,7 @@
 ## 👋 HI there, I am AMMU N RAJ!
 
-
-📖A 3RD year CSE student at College Of Engineering, Trivandrum.😊<br>
-🍀Currently trying to master the programming languages👩‍💻👩‍💻<br>
+- 📖A 3RD year CSE student at College Of Engineering, Trivandrum.😊<br>
+- 🍀Currently trying to master the programming languages👩‍💻👩‍💻<br>
 
 
 ![](https://i.imgur.com/waxVImv.png)
