@@ -22,7 +22,7 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=AMMU-N-RAJ&theme=dark&hide_border=false)<br/>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMMU-N-RAJ&show_icons=true&rank_icon=percentile&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMMU-N-RAJ&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMMU-N-RAJ&layout=compact&langs_count=8&theme=dark)
 
