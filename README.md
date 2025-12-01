@@ -22,9 +22,9 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=AMMU-N-RAJ&theme=dark&hide_border=false)<br/>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMWU-N-RAJ3&show_icons=true&rank_icon=percentile&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMWU-N-RAJ&show_icons=true&rank_icon=percentile&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMWU-N-RAJ3&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMWU-N-RAJ&layout=compact&langs_count=8&theme=dark)
 
 
 
