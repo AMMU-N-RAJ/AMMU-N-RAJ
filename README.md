@@ -21,9 +21,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AMMU-N-RAJ&theme=dark)](https://git.io/streak-stats)
 ![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AMMU-N-RAJ&show_icons=true&theme=radical)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMMU-N-RAJ&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMMU-N-RAJ&layout=compact&langs_count=8&theme=dark)
 
 
 
