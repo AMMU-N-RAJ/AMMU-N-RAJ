@@ -3,10 +3,9 @@
 
 # 💫 About Me:
 
-- 3rd year CS student
+- Final year CS student
 - College of Engineering, Trivandrum
 - Still learning 👩‍💻📚👩‍💻
-- Full Stack Web Developer
 
 
 ![](https://i.imgur.com/waxVImv.png)
